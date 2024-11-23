@@ -1,10 +1,10 @@
 # SehirTrafikleri-VeriAnalizi
 
-Bu proje, futuristik bir şehirdeki trafik verilerinin kapsamlı analizini içermektedir.
+Bu proje, bir şehirdeki trafik verilerinin kapsamlı analizini içermektedir.
 
 ## Proje Hakkında
 
-Bu projede, futuristik bir şehrin trafik verileri analiz edilmiş ve görselleştirilmiştir. Veri seti, araç tipleri, hava durumu, trafik yoğunluğu gibi çeşitli faktörleri içermektedir.
+Bu projede, bir şehrin trafik verileri analiz edilmiş ve görselleştirilmiştir. Veri seti, araç tipleri, hava durumu, trafik yoğunluğu gibi çeşitli faktörleri içermektedir.
 
 ## Analizler
 
