@@ -27,7 +27,7 @@ Proje kapsamında yapılan başlıca analizler:
    - Hız dağılımı istatistikleri
    - Trafik yoğunluğu ve hız ilişkisi
 
-## Kullanılan Teknolojiler
+## Kullanılan Teknolojiler ve Kütüphaneler
 
 - Python
 - Pandas
@@ -35,7 +35,7 @@ Proje kapsamında yapılan başlıca analizler:
 - Matplotlib
 - Seaborn
 
-## Veri Seti
+## Veri Seti ve Değişkenler
 
 Analizde kullanılan veri seti (`futuristic_city_traffic.csv`) aşağıdaki değişkenleri içermektedir:
 - Şehir (City)
